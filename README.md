@@ -3,7 +3,7 @@ Stripe-Minisite
 
 Minisite for freelancers to professionally handle credit and debit card payments directly, without the hassle of going through PayPal.
 
-<img src="http://zesh.me/mcuG+" width="50%" height="50%"/>
+<img src="https://cdn-pro.droplr.net/files/acc_239/mcuG" width="50%" height="50%"/>
 
 # Installation Instruction
 1. Clone this repo to your server: `git clone https://github.com/ZeshanA/Stripe-Minisite`
