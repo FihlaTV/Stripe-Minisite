@@ -1,7 +1,7 @@
 Stripe-Minisite
 ===============
 
-Minisite for freelancers to professionally handle credit and debit card payments directly, without the hassle of going through PayPal.
+Web app for freelancers to professionally handle credit and debit card payments through a personal web link.
 
 <img src="https://cdn-pro.droplr.net/files/acc_239/mcuG" width="50%" height="50%"/>
 
